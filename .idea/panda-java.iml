@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/02.Java版本新功能/jdk9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/01.工厂模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/02.抽象工厂模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/03.单例模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/04.建造者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/05.原型模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/06.适配器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/07.桥接模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/08.过滤器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/09.组合模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/10.装饰器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/11.外观模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/12.享元模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/13.代理模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/14.责任链模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/15.命令模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/16.解释器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/17.迭代器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/18.中介者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/19.备忘录模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/20.观察者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/21.状态模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/22.空对象模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/23.策略模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/24.模版模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/25.访问者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/26.MVC模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/27.业务代表模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/28.组合实体模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/29.数据访问对象模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/30.前端控制器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/31.拦截过滤器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/32.服务定位器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.Java基础/03.Java设计模式/33.传输对象模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50.Java项目/01.组件集成和统一设计/01.框架基础搭建-统一处理" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50.Java项目/01.组件集成和统一设计/12.集成-持久层框架" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50.Java项目/01.组件集成和统一设计/13.集成-数据库" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50.Java项目/01.组件集成和统一设计/14.集成-定时器" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50.Java项目/01.组件集成和统一设计/15.集成-消息队列" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.2" level="project" />
+  </component>
+</module>
