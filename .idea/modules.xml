@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02.Java框架/02.Maven框架/demo/demo.iml" filepath="$PROJECT_DIR$/02.Java框架/02.Maven框架/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/panda-java.iml" filepath="$PROJECT_DIR$/.idea/panda-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guoshunfa-java-demo.iml" filepath="$PROJECT_DIR$/.idea/guoshunfa-java-demo.iml" />
     </modules>
   </component>
 </project>
